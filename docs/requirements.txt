@@ -1,0 +1,10 @@
+# Python version
+python>=3.9
+
+# GUI framework
+PySide6>=6.5
+
+# Standard library only beyond this point
+# subprocess
+# threading
+# sys
