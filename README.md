@@ -196,5 +196,3 @@ This simulator provides a faithful software model of:
 * Multilevel cache hierarchy with realistic replacement policies
 
 ---
-
-Just tell me.
