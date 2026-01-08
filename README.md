@@ -245,3 +245,5 @@ This simulator models key operating system and computer architecture concepts:
 The design prioritizes **clarity, correctness, and educational value** over hardware-level accuracy.
 
 ---
+# Demo video link
+https://drive.google.com/file/d/1N-7OQviMdSfWgM8E2c9NIMTsyJzY0ctR/view?usp=sharing
