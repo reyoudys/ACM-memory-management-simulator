@@ -1,0 +1,12 @@
+init memory 2048
+malloc 128
+malloc 256
+malloc 64
+free 2
+malloc 200
+free 1
+malloc 100
+cache
+stats
+dump
+exit

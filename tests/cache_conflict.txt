@@ -1,0 +1,11 @@
+init memory 4096
+malloc 32
+malloc 32
+malloc 32
+malloc 32
+malloc 32
+malloc 32
+malloc 32
+malloc 32
+cache
+exit

@@ -1,0 +1,9 @@
+init buddy 1024
+malloc 100
+malloc 200
+malloc 50
+dump
+free 2
+dump
+stats
+exit

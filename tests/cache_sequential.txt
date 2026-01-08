@@ -1,0 +1,7 @@
+init memory 1024
+malloc 32
+malloc 32
+malloc 32
+malloc 32
+cache
+exit
